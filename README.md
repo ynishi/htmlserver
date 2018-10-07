@@ -1,4 +1,4 @@
-# htmlserver
+# htmlserver [![Build Status](https://travis-ci.org/ynishi/htmlserver.svg?branch=master)](https://travis-ci.org/ynishi/htmlserver)
 * simple, plain html server for docker environment
 * inspired by json-server https://github.com/typicode/json-server
 
